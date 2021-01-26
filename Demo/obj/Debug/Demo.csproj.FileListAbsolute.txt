@@ -1,0 +1,10 @@
+E:\DienToanDamMay\CuoiKy\Demo\Demo\bin\Debug\Demo.exe.config
+E:\DienToanDamMay\CuoiKy\Demo\Demo\bin\Debug\Demo.exe
+E:\DienToanDamMay\CuoiKy\Demo\Demo\bin\Debug\Demo.pdb
+E:\DienToanDamMay\CuoiKy\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+E:\DienToanDamMay\CuoiKy\Demo\Demo\obj\Debug\Demo.Form1.resources
+E:\DienToanDamMay\CuoiKy\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+E:\DienToanDamMay\CuoiKy\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+E:\DienToanDamMay\CuoiKy\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\DienToanDamMay\CuoiKy\Demo\Demo\obj\Debug\Demo.exe
+E:\DienToanDamMay\CuoiKy\Demo\Demo\obj\Debug\Demo.pdb
